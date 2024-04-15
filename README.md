@@ -4,7 +4,7 @@ Collaborate with a global community of chess lovers and developers  Enhance your
 
 🔲 Calling All Chess Enthusiasts and Developers! 🔲
 
-I’m thrilled to share that I’ve developed a chess app using #PowerApps, and it’s now time to take it to the next level! 🚀
+I’m thrilled to share that I’ve started developing a chess app using #PowerApps, and it’s now time to take it to the next level! 🚀
 
 The Challenge: I’m looking for creative minds to contribute to the app by developing unique logic for the movement of different chess pieces. Whether you’re a seasoned developer or a strategic thinker with a passion for chess, your input can help shape the future of this app.
 
